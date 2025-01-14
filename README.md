@@ -1,6 +1,6 @@
 # Data-Visu
 
-Notre projet projet porte sur l'étude du prix de l'énergie (gaz et électricité) aux états unis.
+Notre projet projet porte sur l'étude du prix de l'énergie (gaz et électricité) en Europe.
 
 Vous pouvez visualiser les données via ce lien https://datavislsn.shinyapps.io/shinyapp/.
 
